@@ -12,5 +12,5 @@
 # Resources
 
 - [Plugins Wiki](https://github.com/EliteClockman-ctrl/AegisAuth-wiki)
-- [Modrinth Page]((https://modrinth.com/plugin/aegisauth))
+- [Modrinth Page]((https://modrinth.com/plugin/aegisauth)
 - [Report Issues](https://github.com/EliteClockman-ctrl/AegisAuth-wiki/issues)
