@@ -12,8 +12,3 @@ Welcome to the AegisAuth Wiki repository. This repository contains the complete 
 - [Developers Guide](Developers.md) - Build instructions and code architecture.
 
 ---
-
-## Main Repository
-
-For the source code and compilation assets of the AegisAuth plugin, please visit the primary repository:
-https://github.com/EliteClockman-ctrl/AegisAuth
