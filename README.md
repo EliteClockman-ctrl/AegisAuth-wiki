@@ -15,4 +15,4 @@ Welcome to the AegisAuth Wiki repository. This repository contains the complete 
 
 ## COMING SOON IN MODRINTH 
 
-<img src="https://i.postimg.cc/1XC31rVJ/banner.png" alt="Banner" />
+<img src="https://i.postimg.cc/65cy2D5K/Untitled-design.png" alt="Banner" />
